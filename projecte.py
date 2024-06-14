@@ -4,7 +4,7 @@ import llistacompra
 import classes
 import scraping
 import ex6
- 
+
 
 def menu():
     op = 0
